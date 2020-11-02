@@ -1,2 +1,2 @@
 # SmartDeco
-Smartphone apps for SmartDeco products
+Placeholder repo for useful assets, etc.
